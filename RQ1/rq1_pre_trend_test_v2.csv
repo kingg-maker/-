@@ -1,0 +1,5 @@
+outcome,window,method,stat,df,pval,n_pre_estimates
+bhci,2011_2018,group_time_diagonal_wald,1.268889921417073,3,0.7365333903280726,3
+func_cap,2011_2018,group_time_diagonal_wald,1.9287541570524018,3,0.5873249101980291,3
+bhci,2011_2020,group_time_diagonal_wald,1.2852546652092058,3,0.7326374449094522,3
+func_cap,2011_2020,group_time_diagonal_wald,1.749070832454615,3,0.6260798900733339,3
