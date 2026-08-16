@@ -1,0 +1,2 @@
+method,stat,df,pval,n_pre_estimates,note,outcome
+group_time_diagonal_wald_naive,5.047479544023422,3,0.16835329073577082,3,Use event-study simultaneous CIs; naive Wald is diagnostic only.,cog_cap
