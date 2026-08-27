@@ -1,0 +1,10 @@
+dimension,state,baseline_persons,person_wave_bhci,person_wave_func
+Dmat,0,521,1568,1679
+Dmat,0.5,2772,8922,9465
+Dmat,1,1629,4950,5421
+Dskill,0,1143,3618,3812
+Dskill,0.5,1144,3736,3888
+Dskill,1,2635,8086,8865
+Dsocial,0,29,89,92
+Dsocial,0.5,2230,7151,7560
+Dsocial,1,2663,8200,8913
