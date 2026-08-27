@@ -1,0 +1,10 @@
+dimension,state,baseline_persons,person_wave_bhci,person_wave_func,small_cell
+Dmat,0,521,1568,1679,FALSE
+Dmat,0.5,2772,8922,9465,FALSE
+Dmat,1,1629,4950,5421,FALSE
+Dskill,0,1143,3618,3812,FALSE
+Dskill,0.5,1144,3736,3888,FALSE
+Dskill,1,2635,8086,8865,FALSE
+Dsocial,0,29,89,92,TRUE
+Dsocial,0.5,2230,7151,7560,FALSE
+Dsocial,1,2663,8200,8913,FALSE
