@@ -1,0 +1,9 @@
+sample,control_set,n_rows,n_ids,row_retention_pct
+all_60plus_2011_2018,main4,23832,7068,99.76
+all_60plus_2011_2018,main4_plus_3,19709,5811,82.5
+all_60plus_2011_2018,main4_plus_gdp,19546,5761,81.82
+all_60plus_2011_2018,extended12,19475,5736,81.52
+chronic_2011_2018,main4,17690,5289,99.81
+chronic_2011_2018,main4_plus_3,14671,4368,82.78
+chronic_2011_2018,main4_plus_gdp,14533,4326,82.0
+chronic_2011_2018,extended12,14483,4308,81.72

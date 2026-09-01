@@ -1,0 +1,5 @@
+variable,mean_never,mean_ever,std_diff,n_never,n_ever
+gdp_pc_log_base,10.1926,10.5333,0.6308,4230,2800
+hhcperc_base,6504.9151,7800.8809,0.1298,3545,2276
+age_base,68.3351,68.5114,0.0252,4288,2800
+chronic_count_base,1.6493,1.6491,-0.0001,4268,2770
