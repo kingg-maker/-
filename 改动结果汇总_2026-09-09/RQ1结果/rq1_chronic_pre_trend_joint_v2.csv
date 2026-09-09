@@ -1,0 +1,3 @@
+group,outcome,pre_periods,joint_wald,df,pval,n
+func,func_cap,"-3,-2",0.30348391071193126,2,0.85920996666746,27498
+bhci,bhci_fixed,"-3,-2",0.0925610206064109,2,0.9547741006510438,24539
